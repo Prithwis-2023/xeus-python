@@ -4,3 +4,30 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - ipycanvas
+  - astroalign
+  - astropy
+  - astroquery
+  - barycorrpy
+  - colour_demosaicing
+  - dynesty
+  - holoviews
+  - importlib-metadata
+  - imreg_dft
+  - LDTk
+  - lmfit
+  - matplotlib
+  - numpy
+  - pandas
+  - panel
+  - photutils
+  - pylightcurve
+  - python_dateutil
+  - python_version
+  - pyvo
+  - rebound
+  - requests
+  - scipy
+  - scikit-image
+  - statsmodels
+  - tenacity
+  - ultranest
